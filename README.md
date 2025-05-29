@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/44661979?s=400&u=ecb139c92258802565e2a45ebbc4c1d26e510955&v=4" width="200" alt="Zohaib's Avatar"/>
-</p>
-
 # 👋 Hi, I'm Zohaib Faruqui — aka FaruquiSahab
 
 I'm a full-stack web developer from Karachi, Pakistan 🇵🇰, navigating the ever-evolving tech landscape with curiosity and a dash of humor. My journey began with the foundational trio: Core PHP, MySQL, and Laravel. Over time, I've expanded my toolkit to include Node.js (and its TypeScript variant), React, and Next.js.
