@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hey, I'm Zohaib Faruqui
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hey, I'm Zohaib Faruqui 🧔🏽‍♂️
 
 <p align="left">
   <a href="https://komarev.com/ghpvc/?username=FaruquiSahab&label=Profile%20Views&color=0e75b6&style=flat">
