@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hey, I'm Zohaib Faruqui 🧔🏽‍♂️
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hey, I’m Zohaib Faruqui 🧔🏽‍♂️
 
 <p align="left">
   <a href="https://komarev.com/ghpvc/?username=FaruquiSahab&label=Profile%20Views&color=0e75b6&style=flat">
@@ -18,11 +18,12 @@ Full-Stack Engineer building scalable fintech systems, cloud-native applications
 Focused on TypeScript ecosystems, distributed systems, realtime infrastructures, developer experience, and product-driven engineering.
 </p>
 
----
+-----
 
 ## ⚡ Current Focus
 
 ### Backend
+
 - <img src="https://skillicons.dev/icons?i=nodejs" width="18"/> Node.js
 - <img src="https://skillicons.dev/icons?i=ts" width="18"/> TypeScript
 - <img src="https://skillicons.dev/icons?i=fastapi" width="18"/> FastAPI
@@ -31,11 +32,13 @@ Focused on TypeScript ecosystems, distributed systems, realtime infrastructures,
 - <img src="https://skillicons.dev/icons?i=express" width="18"/> Express.js
 
 ### Frontend
+
 - <img src="https://skillicons.dev/icons?i=react" width="18"/> React
 - <img src="https://skillicons.dev/icons?i=nextjs" width="18"/> Next.js
 - <img src="https://skillicons.dev/icons?i=tailwind" width="18"/> TailwindCSS
 
 ### Cloud & Infra
+
 - <img src="https://skillicons.dev/icons?i=gcp" width="18"/> Google Cloud Platform
 - <img src="https://skillicons.dev/icons?i=azure" width="18"/> Azure
 - <img src="https://skillicons.dev/icons?i=docker" width="18"/> Docker
@@ -43,6 +46,7 @@ Focused on TypeScript ecosystems, distributed systems, realtime infrastructures,
 - <img src="https://skillicons.dev/icons?i=nginx" width="18"/> NGINX
 
 ### Databases
+
 - <img src="https://skillicons.dev/icons?i=postgres" width="18"/> PostgreSQL
 - <img src="https://skillicons.dev/icons?i=mysql" width="18"/> MySQL
 - <img src="https://skillicons.dev/icons?i=mongodb" width="18"/> MongoDB
@@ -50,13 +54,15 @@ Focused on TypeScript ecosystems, distributed systems, realtime infrastructures,
 - <img src="https://skillicons.dev/icons?i=firebase" width="18"/> Firebase
 
 ### Domains
+
 - 💳 Fintech
 - 🛒 E-Commerce
 - 👛 Wallet Systems
 - ⚡ Payment Integrations
 - 🔴 Realtime APIs
+- 📢 Brand Management & Digital Marketing
 
----
+-----
 
 ## 🛠 Tech Arsenal
 
@@ -66,7 +72,7 @@ Focused on TypeScript ecosystems, distributed systems, realtime infrastructures,
 
 </p>
 
----
+-----
 
 ## 📈 GitHub Analytics
 
@@ -84,7 +90,7 @@ Focused on TypeScript ecosystems, distributed systems, realtime infrastructures,
 
 </p>
 
----
+-----
 
 ## 💼 Currently Working With
 
@@ -110,22 +116,41 @@ Focused on TypeScript ecosystems, distributed systems, realtime infrastructures,
 
 </p>
 
+
 > Building fintech systems, digital wallets, gaming commerce platforms, scalable APIs, and realtime infrastructures.
 
----
+-----
+
+### 🧩 Solvpreneur Solutions
+
+<p align="left">
+
+<a href="https://solvpreneur.com">
+  <img src="https://img.shields.io/badge/Solvpreneur-111111?style=for-the-badge&logo=rocket&logoColor=white" />
+</a>
+
+</p>
+
+
+> UAE-based brand management agency serving entrepreneurs across Sharjah, Dubai & the GCC. Building and maintaining the company’s web platform, CRM systems, and digital infrastructure — including full-stack development, SEO tooling, ad-tech integrations (Google Ads, Meta Ads), and marketing automation pipelines. Working alongside Raptr for 2+ years.
+
+-----
 
 ## 🏢 Previously Worked With
 
 ### 🧠 Culturefy IMC
+
 Full-Stack Developer — AI-powered management consulting platform focused on strategy, execution, and intelligence systems.
 
 ### ⚡ WeUno Technologies
+
 Full-Stack Developer — worked on scalable web applications, APIs, and modern frontend/backend systems.
 
 ### ☁️ Rapid Compute (now Rapid)
+
 Full-Stack Developer — cloud infrastructure tooling, scalable services, backend systems, and platform engineering.
 
----
+-----
 
 ## 🚀 What I Build
 
@@ -135,10 +160,11 @@ Full-Stack Developer — cloud infrastructure tooling, scalable services, backen
 - Wallet ecosystems
 - Payment gateway integrations
 - Realtime architectures
+- Brand management platforms & CRM systems
 - Internal tools & automations
 - Cloud-native APIs
 
----
+-----
 
 ## 🧠 Engineering Mindset
 
@@ -148,7 +174,7 @@ Full-Stack Developer — cloud infrastructure tooling, scalable services, backen
 
 > I enjoy solving problems that only appear at scale.
 
----
+-----
 
 ## 🏗 Previously Worked With
 
@@ -160,7 +186,7 @@ Full-Stack Developer — cloud infrastructure tooling, scalable services, backen
 
 </p>
 
----
+-----
 
 ## 🤝 Connect With Me
 
@@ -176,7 +202,7 @@ Full-Stack Developer — cloud infrastructure tooling, scalable services, backen
 
 </p>
 
----
+-----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=100&section=footer"/>
